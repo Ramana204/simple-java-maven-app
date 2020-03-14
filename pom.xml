@@ -33,13 +33,13 @@
   <distributionManagement>
     <repository>
         <id>central</id>
-        <name>LTIN124555-releases</name>
-        <url>http://localhost:8081/artifactory/libs-release</url>
+        <name>libs-release</name>
+        <url>http://18.208.169.21:8081/artifactory/libs-release</url>
     </repository>
     <snapshotRepository>
       <id>snapshots</id>
       <name>libs-snapshot</name>
-      <url>http://localhost:8081/artifactory/libs-snapshot</url>
+      <url>http://http://18.208.169.21:8081/artifactory/libs-snapshot</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
